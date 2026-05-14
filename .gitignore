@@ -24,3 +24,10 @@ hs_err_pid*
 replay_pid*
 
 .idea
+03-SubAgents/projects/07-code-reviewer/.idea
+03-SubAgents/projects/07-code-reviewer/target
+03-SubAgents/projects/08-bugfix-pipeline/.idea
+03-SubAgents/projects/08-bugfix-pipeline/target
+
+fcbox-router-parent
+website
